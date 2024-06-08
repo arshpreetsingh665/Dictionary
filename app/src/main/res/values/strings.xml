@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dictionary</string>
+    <string name="hello">Hello</string>
+    <string name="parts_of_speech">Parts of speech</string>
+</resources>
